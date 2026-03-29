@@ -3,12 +3,7 @@
    ▼▼▼  REPLACE FIREBASE CONFIG  ▼▼▼
 ══════════════════════════════════════════════════ */
 const firebaseConfig = {
-  apiKey: "AIzaSyD7pwpGoLOP3JBRC7eKTmtVBPsLJ0crPJs",
-  authDomain: "patholeloc.firebaseapp.com",
-  projectId: "patholeloc",
-  storageBucket: "patholeloc.firebasestorage.app",
-  messagingSenderId: "621088765597",
-  appId: "1:621088765597:web:0321f2678663d405de4674"
+
 };
 
 /* ▼▼▼  YOUR ADMIN EMAILS  ▼▼▼ */
